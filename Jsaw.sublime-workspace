@@ -1,0 +1,1327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Re",
+				"ResourceDir"
+			],
+			[
+				"coc",
+				"cocosedLoader"
+			],
+			[
+				"js",
+				"jsFilesPos"
+			],
+			[
+				"fil",
+				"fileCache"
+			],
+			[
+				"co",
+				"cocosedLoader"
+			],
+			[
+				"sli",
+				"slidehide"
+			],
+			[
+				"ub",
+				"umbrella"
+			],
+			[
+				"com",
+				"common"
+			],
+			[
+				"bo",
+				"boardName"
+			],
+			[
+				"boa",
+				"boardName"
+			],
+			[
+				"lib",
+				"libPath"
+			],
+			[
+				"lo",
+				"loadApp"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"app",
+				"appDirectory"
+			],
+			[
+				"gra",
+				"grab_planet_qt"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"load",
+				"loadPlugins"
+			],
+			[
+				"fi",
+				"files"
+			],
+			[
+				"un",
+				"underscore-min"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"pro",
+				"provided"
+			],
+			[
+				"li",
+				"library"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ar",
+				"articleList"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"sou",
+				"sources"
+			],
+			[
+				"tie",
+				"titles"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"inde",
+				"indexOfLeft"
+			],
+			[
+				"is",
+				"isClosed"
+			],
+			[
+				"topi",
+				"topicCache"
+			],
+			[
+				"top",
+				"topicCache"
+			],
+			[
+				"repl",
+				"replyCache"
+			],
+			[
+				"rep",
+				"replyCache"
+			],
+			[
+				"Pos",
+				"PostDetailReply"
+			],
+			[
+				"time",
+				"timeStamp"
+			],
+			[
+				"tim",
+				"timeStamp"
+			],
+			[
+				"topic",
+				"topicType"
+			],
+			[
+				"onS",
+				"onShowAllContentClicked"
+			],
+			[
+				"topicT",
+				"topicType"
+			],
+			[
+				"refre",
+				"refreshTopicInfo"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"rend",
+				"renderBoardInfo"
+			],
+			[
+				"getT",
+				"getTopicInfo"
+			],
+			[
+				"rco",
+				"rConfig"
+			],
+			[
+				"ren",
+				"renderReplyList"
+			],
+			[
+				"posts",
+				"posts_page"
+			],
+			[
+				"pag",
+				"page_num"
+			],
+			[
+				"cu",
+				"curPage"
+			],
+			[
+				"viw",
+				"viewMode"
+			],
+			[
+				"pa",
+				"page_num"
+			],
+			[
+				"new",
+				"newFace"
+			],
+			[
+				"fa",
+				"face"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"lis",
+				"listPerPage"
+			],
+			[
+				"onPage",
+				"onPageButtonClicked"
+			],
+			[
+				"pos",
+				"postDetail_templ"
+			],
+			[
+				"page",
+				"page_Pre"
+			],
+			[
+				"to",
+				"totalCount"
+			],
+			[
+				"tar",
+				"targetId"
+			],
+			[
+				"fe",
+				"fetchFinished"
+			],
+			[
+				"fet",
+				"fetchFinished"
+			],
+			[
+				"reply",
+				"replyList"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tit",
+				"title_txt"
+			],
+			[
+				"ma",
+				"max_choices"
+			],
+			[
+				"view",
+				"viewMode"
+			],
+			[
+				"vie",
+				"viewMode"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"game",
+				"gameId"
+			],
+			[
+				"vo",
+				"voteFinished"
+			],
+			[
+				"vot",
+				"voter"
+			],
+			[
+				"votef",
+				"voteFinished"
+			],
+			[
+				"show",
+				"showRecentReplies"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"ta",
+				"targetId"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"gam",
+				"gameId"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"sdk",
+				"sdk_img_pop"
+			],
+			[
+				"ca",
+				"callBack"
+			],
+			[
+				"simle",
+				"simleyurl"
+			],
+			[
+				"Do",
+				"DOWNLOAD_DIR"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"page_",
+				"page_Next"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"_get",
+				"_getData"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"in",
+				"initView"
+			],
+			[
+				"shw",
+				"showAllReplies"
+			],
+			[
+				"po",
+				"postDetailView"
+			],
+			[
+				"rp",
+				"replys"
+			],
+			[
+				"nm",
+				"numOfReplyPage"
+			],
+			[
+				"cur",
+				"curPage"
+			],
+			[
+				"te",
+				"templ"
+			],
+			[
+				"nu",
+				"numOfReplyPage"
+			],
+			[
+				"_g",
+				"_getData"
+			],
+			[
+				"user",
+				"userLevel"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"next",
+				"showNextPage"
+			],
+			[
+				"bbs",
+				"bbsIndex"
+			],
+			[
+				"post",
+				"post_date"
+			],
+			[
+				"Po",
+				"PostDetailReply"
+			],
+			[
+				"postD",
+				"PostDetail"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"listB",
+				"listBoardTopicsByGroup"
+			],
+			[
+				"list",
+				"listBoardNewTopics"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"crea",
+				"createReply"
+			],
+			[
+				"cre",
+				"createPlainTopic"
+			],
+			[
+				"ser",
+				"searchBoardTopics"
+			],
+			[
+				"listBo",
+				"listBoardNewTopics"
+			],
+			[
+				"s_ar",
+				"s_array3_big"
+			],
+			[
+				"s_a",
+				"s_array1"
+			],
+			[
+				"set",
+				"setPosition"
+			],
+			[
+				"b",
+				"bRet"
+			],
+			[
+				"Me",
+				"Menu"
+			],
+			[
+				"Men",
+				"MenuItemSprite"
+			],
+			[
+				"Mi",
+				"Milk2"
+			],
+			[
+				"Sp",
+				"Sprite"
+			],
+			[
+				"Pro",
+				"PropObject"
+			],
+			[
+				"_sc",
+				"_scaleY"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Resource.js",
+			"settings":
+			{
+				"buffer_size": 7313,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/buildAll.php",
+			"settings":
+			{
+				"buffer_size": 2485,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/builder.php",
+			"settings":
+			{
+				"buffer_size": 1791,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/cocos2d.js",
+			"settings":
+			{
+				"buffer_size": 4295,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/copy.php",
+			"settings":
+			{
+				"buffer_size": 1165,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/Classes/AppDelegate.js",
+			"settings":
+			{
+				"buffer_size": 3202,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/Classes/Config/Game.js",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/Classes/Config/Level.js",
+			"settings":
+			{
+				"buffer_size": 22467,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build/cocos2d.js",
+			"settings":
+			{
+				"buffer_size": 3035,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/index.html",
+			"settings":
+			{
+				"buffer_size": 697,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/My Documents/GitHub/Jsaw/app/assets/www/index.html",
+		"/D/My Documents/GitHub/Jsaw/build/index.html",
+		"/D/My Documents/GitHub/Jsaw/dev/Classes/Config/global.js",
+		"/D/My Documents/GitHub/Jsaw/dev/Classes/Config/Level.js",
+		"/D/My Documents/GitHub/Jsaw/build/app.js",
+		"/D/My Documents/GitHub/Jsaw/app/assets/www/cocos2d.js",
+		"/D/My Documents/GitHub/Jsaw/README.md",
+		"/D/My Documents/GitHub/phantom/download/grab_ifanr.txt",
+		"/D/My Documents/GitHub/phantom/app/grab_qt_planet.js",
+		"/D/My Documents/GitHub/phantom/app/grab_kde_planet.js",
+		"/D/My Documents/GitHub/phantom/download/planet-qt.txt",
+		"/D/My Documents/GitHub/phantom/util/save.js",
+		"/D/My Documents/GitHub/phantom/page.util.save",
+		"/D/My Documents/GitHub/phantom/config.json",
+		"/D/My Documents/GitHub/phantom/grabimg.js",
+		"/D/My Documents/GitHub/phantom/dowload/planet-qt.txt",
+		"/D/My Documents/GitHub/phantom/planet-qt.txt",
+		"/D/new-sdk-h5/develop/buildAll.php",
+		"/D/Packages/phantomjs-1.6.1/examples/grabimg.js",
+		"/D/Packages/phantomjs-1.6.1/examples/injectme.js",
+		"/D/new-sdk-h5/develop/ucf/build/builder.php",
+		"/D/new-sdk-h5/develop/sdk/build/builder.php",
+		"/D/new-sdk-h5/develop/bridge.js",
+		"/D/new-sdk-h5/develop/sdkBase/builder.php",
+		"/D/Cocos2d-html5-v0.5.0-alpha2/CHANGELOG.txt",
+		"/D/Cocos2d/CHANGELOG.txt",
+		"/D/new-sdk-h5/develop/sdkBase/sdkBase.js",
+		"/D/new-sdk-h5/production/bbs/bbs.html",
+		"/D/new-sdk-h5/develop/app/common/css/base.css",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/common/ui/msgBox.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/common/ui/mask.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/common/event/handler/common.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdkBase/sdkBase.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/common/hooks/request.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/system/bbs/models/topicFile.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/system/bbs/models/editReply.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/common/base/sdk.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/system/bbs/views/postDetail.js",
+		"/C/Documents and Settings/Administrator/桌面/广州佳都中文.htm",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/system/bbs/collections/reply.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/system/bbs/views/editReply.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/system/bbs/views/editTopic.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/system/bbs/models/editTopic.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/common/ui/umbrella.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/app/common/css/bbs.css",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/src/system/bbs/routers/bbs.js",
+		"/C/Documents and Settings/Administrator/桌面/environment.js",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/app/bbs/bbs.html",
+		"/D/My Documents/GitHub/new-sdk-h5/develop/sdk/resources/config/business.js",
+		"/C/Documents and Settings/Administrator/桌面/页面/HTML/sdk_tpt.html",
+		"/D/Packages/phantomjs-1.6.1/examples/imagebin.js",
+		"/D/Packages/phantomjs-1.6.1/examples/netsniff.js",
+		"/D/Packages/phantomjs-1.6.1/examples/weather.js",
+		"/D/Packages/phantomjs-1.6.1/examples/technews.js",
+		"/D/Packages/phantomjs-1.6.1/examples/render_multi_url.js",
+		"/D/Packages/phantomjs-1.6.1/examples/ipgeocode.js",
+		"/D/Packages/phantomjs-1.6.1/examples/echoToFile.js",
+		"/C/Documents and Settings/Administrator/桌面/页面/HTML/sdk_img.html",
+		"/D/Packages/phantomjs-1.6.1/examples/loadspeed.js",
+		"/D/Packages/phantomjs-1.6.1/examples/seasonfood.js",
+		"/D/Packages/phantomjs-1.6.1/examples/fibo.js",
+		"/D/Packages/phantomjs-1.6.1/examples/features.js",
+		"/D/Packages/phantomjs-1.6.1/examples/countdown.js",
+		"/D/Packages/phantomjs-1.6.1/examples/colorwheel.js",
+		"/D/Packages/phantomjs-1.6.1/examples/arguments.js",
+		"/D/My Documents/GitHub/yt-sdk-h5/develop/sdk/src/system/bbs/views/postDetail.js",
+		"/E/Sync/HTML5/ucsimleley/fetch.js",
+		"/E/Sync/HTML5/ucsimleley/node_modules/package.json",
+		"/E/local/proxy.ini",
+		"/D/My Documents/GitHub/goagent-goagent-81e3a62/README",
+		"/D/My Documents/GitHub/yt-sdk-h5/develop/sdk/src/system/bbs/models/reply.js",
+		"/D/My Documents/GitHub/yt-sdk-h5/develop/sdk/src/system/bbs/models/bbs.js",
+		"/D/My Documents/GitHub/yt-sdk-h5/develop/sdk/src/system/bbs/models/topic.js",
+		"/D/My Documents/GitHub/yt-sdk-h5/develop/sdk/src/system/bbs/views/searchResult.js",
+		"/D/Packages/controls.js",
+		"/D/My Documents/GitHub/yt-sdk-h5/develop/sdk/src/system/user/views/user.js",
+		"/D/My Documents/GitHub/yt-sdk-h5/develop/ucf/src/caches.js",
+		"/D/My Documents/GitHub/yt-sdk-h5/develop/sdk/src/system/pay/views/pay.js",
+		"/D/My Documents/GitHub/yt-sdk-h5/develop/sdk/src/system/bbs/models/postReply.js",
+		"/D/My Documents/GitHub/sdk-h5/develop/sdk/src/system/pay/views/pay.js",
+		"/D/My Documents/GitHub/sdk-h5/develop/sdk/src/system/pay/routers/pay.js",
+		"/D/My Documents/GitHub/sdk-h5/develop/sdk/resources/config/business.js",
+		"/D/My Documents/GitHub/sdk-h5/develop/app/bbs/bbs.html",
+		"/D/My Documents/GitHub/sdk-h5/develop/sdk/src/system/user/models/user.js",
+		"/D/My Documents/GitHub/sdk-h5/develop/sdk/src/system/user/models/register.js",
+		"/D/My Documents/GitHub/sdk-h5/develop/sdk/src/system/user/collections/loginHist.js",
+		"/D/My Documents/GitHub/sdk-h5/develop/sdk/src/common/base/initializer.js",
+		"/D/My Documents/GitHub/sdk-h5/develop/sdk/src/common/base/sdk.js",
+		"/D/My Documents/GitHub/sdk-h5/develop/bridge.js",
+		"/D/My Documents/Workspace/sdk-h5/develop/sdk/src/system/bbs/collections/bbs.js",
+		"/D/My Documents/Workspace/sdk-h5/develop/sdk/src/system/bbs/models/topic.js",
+		"/D/My Documents/Workspace/sdk-h5-koh/develop/index.html",
+		"/D/My Documents/Workspace/sdk-h5/develop/sdk/src/system/user/views/user.js",
+		"/D/My Documents/Workspace/sdk-h5/develop/sdk/src/system/user/routers/sso.js",
+		"/D/My Documents/Workspace/sdk-h5/develop/sdk/src/system/user/routers/user.js",
+		"/D/My Documents/Workspace/sdk-h5/develop/sdk/src/common/base/initializer.js",
+		"/D/My Documents/Workspace/sdk-h5-koh/develop/app/pay/pay.html",
+		"/D/My Documents/Workspace/sdk-h5-koh/develop/app/user/user.html",
+		"/D/My Documents/Workspace/sdk-h5-koh/develop/sdkBase/builder.php",
+		"/D/My Documents/Workspace/sdk-h5/develop/ucf/opensources/artTemplate/template.js",
+		"/D/My Documents/Workspace/sdk-h5/develop/app/user/user.html",
+		"/D/My Documents/Workspace/sdk-h5/develop/sdk/src/system/user/collections/loginHist.js",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/D/My Documents/GitHub/Playground/ChatRoom/public/index.html",
+		"/E/auzll-nodechat-1554c8d/web/chat.js",
+		"/D/My Documents/GitHub/Playground/ChatRoom/public/jquery-1.7.min.js",
+		"/D/My Documents/GitHub/Playground/ChatRoom/index.html",
+		"/D/My Documents/GitHub/Playground/ChatRoom/mchat.js",
+		"/D/My Documents/GitHub/Playground/ChatRoom/server.js",
+		"/D/My Documents/GitHub/Playground/ChatRoom/node.js",
+		"/D/My Documents/GitHub/Playground/quickly_trunk/data/media/app/scripts/lib.js",
+		"/D/My Documents/GitHub/GoldMiner/Classes/Framework/StoreLayer.js",
+		"/E/Sync/HTML5/ShengxiangChen-MoonWarriors-58e81b4/Classes/SysMenu.js",
+		"/D/My Documents/GitHub/GoldMiner/cocos2d.js",
+		"/E/GoldMiner(7.31)3/Classes/Framework/LevelManager.js",
+		"/D/My Documents/GitHub/GoldMiner/Classes/Actor/ToolObjects.js",
+		"/E/GoldMiner(7.31)3/Classes/Actor/ToolObjects.js",
+		"/E/GoldMiner(7.31)3/Classes/Config/Game.js",
+		"/E/GoldMiner(7.31)3/Classes/Framework/MissionLayer.js",
+		"/D/My Documents/GitHub/GoldMiner/Classes/Framework/ToolManager.js",
+		"/E/farmSaving/GoldMiner(7.31)3/Classes/Actor/ToolObjects.js",
+		"/E/farmSaving/GoldMiner(7.31)3/Classes/Framework/StoreLayer.js",
+		"/D/My Documents/GitHub/GoldMiner/Classes/Framework/MissionLayer.js",
+		"/E/GoldMiner(7.27)2/Resource.js",
+		"/E/GoldMiner(7.27)2/Classes/Framework/MissionLayer.js",
+		"/E/GoldMiner(7.27)2/Classes/Framework/StoreLayer.js",
+		"/E/GoldMiner(7.27)2/Classes/Framework/ToolManager.js",
+		"/E/GoldMiner(7.27)2/Classes/Actor/ToolObjects.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\My Documents\\GitHub\\new-sdk-h5\\develop",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"makeNewReply",
+			"boardName",
+			"searchPostsNum",
+			"collection",
+			"total",
+			"searchPage",
+			"boardName",
+			"boardNameContainer",
+			"});\n",
+			"            \n",
+			"TITLE",
+			"global",
+			"ROOT",
+			"true",
+			"path_slash",
+			"onImgClicked",
+			"showImg",
+			"end",
+			"onShowAllContentClicked",
+			"isUndefined",
+			",\n",
+			"bridge",
+			"_actionFunctions",
+			"_actions",
+			"SdkServerService",
+			"_getServiceHandler",
+			"_actions",
+			"_serviceFuncions",
+			"_getServiceHandler",
+			"S.sdkBase.servType.SDKSERVER",
+			"console",
+			"postReply",
+			"操作太快",
+			"你的操作太快",
+			"faceSelect",
+			"selectedFace",
+			"你的操作太快",
+			"currentTime",
+			"NoticeBox",
+			"error",
+			"showRecentReplies",
+			"sdkFacePop",
+			"faceDiv",
+			"showOrHideFaces",
+			"postReplyFaceBtn",
+			"postReplyBtn",
+			"isClosed",
+			"console",
+			"callBack",
+			"console",
+			"ucf",
+			"makeNewReply",
+			"isClosed",
+			"showAllReplies",
+			"addReplyListPaging",
+			"refreshReplyList",
+			"onShowAllContentClicked",
+			"ucf",
+			"slice",
+			"The view is not attached to a window\n",
+			"showImg",
+			"onImgClicked",
+			"addContentPaging",
+			"onExtraContentClicked",
+			"sdkBase.request",
+			"S.sdkBase.request",
+			"sdk.common.hooks.request",
+			"PageCache",
+			"PAGE_BBS",
+			"SdkHeader",
+			"initializer",
+			"processTopicContent",
+			"getTopicInfo",
+			"refleshReplyList",
+			"\");\n",
+			"_pageCount",
+			"page_num",
+			"_numOfPage",
+			"reflesh",
+			"{\n",
+			"Cache",
+			"bg_gray",
+			"process",
+			"topic.get",
+			"process",
+			"proce",
+			"removeClass",
+			"process",
+			"console",
+			"curPage",
+			"org_list",
+			"gray",
+			"btn",
+			"bg_gray",
+			"bg",
+			"bg-gray",
+			"bg_gray",
+			"addReplyListPaging",
+			"renderReplyList",
+			"addReplyListPaging",
+			"NoticeBox",
+			"回复",
+			"page_Pre",
+			"onShowAllBtnClicked",
+			"{\n",
+			"1",
+			"showAllReplies",
+			"ace;",
+			"face",
+			"processTopicContent",
+			"this.board",
+			"this.topic",
+			"Paging",
+			"error",
+			"showRecentReplies",
+			"renderRepliesList",
+			"getReplyList",
+			"getRepliesList",
+			"resultPaging",
+			"gameid",
+			"onShowAllBtnClicked",
+			"\">\n",
+			"get",
+			"listPerPage",
+			"console",
+			"reflesh",
+			"refleshReplies",
+			"                        "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"gConfig",
+			"slash",
+			"_pageCount",
+			"_pageC",
+			"_pageCount",
+			"at",
+			",",
+			"    ",
+			"mode",
+			"orientation"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Resource.js",
+					"settings":
+					{
+						"buffer_size": 7313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1647,
+								1647
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dev/buildAll.php",
+					"settings":
+					{
+						"buffer_size": 2485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2422,
+								2422
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dev/builder.php",
+					"settings":
+					{
+						"buffer_size": 1791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dev/cocos2d.js",
+					"settings":
+					{
+						"buffer_size": 4295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3095,
+								3095
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 882.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dev/copy.php",
+					"settings":
+					{
+						"buffer_size": 1165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dev/Classes/AppDelegate.js",
+					"settings":
+					{
+						"buffer_size": 3202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1090,
+								1090
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "dev/Classes/Config/Game.js",
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								957,
+								957
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "dev/Classes/Config/Level.js",
+					"settings":
+					{
+						"buffer_size": 22467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22022,
+								22022
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5124.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "build/cocos2d.js",
+					"settings":
+					{
+						"buffer_size": 3035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2916,
+								2916
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 588.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "dev/index.html",
+					"settings":
+					{
+						"buffer_size": 697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"obj",
+				"Classes/Config/ObjectType.js"
+			],
+			[
+				"stor",
+				"Classes/Framework/StoreLayer.js"
+			],
+			[
+				"ga",
+				"Classes/Framework/GameControlMenu.js"
+			],
+			[
+				"game",
+				"Classes/Config/Game.js"
+			],
+			[
+				"store",
+				"Classes/Framework/StoreLayer.js"
+			],
+			[
+				"ho",
+				"Classes/Actor/Hook.js"
+			],
+			[
+				"resou",
+				"Resource.js"
+			],
+			[
+				"leve",
+				"Classes/Framework/LevelManager.js"
+			],
+			[
+				"mis",
+				"Classes/Framework/MissionLayer.js"
+			],
+			[
+				"gameov",
+				"Classes/Framework/GameOverLayer.js"
+			],
+			[
+				"mi",
+				"Classes/Actor/MineObject.js"
+			],
+			[
+				"gaml",
+				"Classes/Framework/GameLayer.js"
+			],
+			[
+				"too",
+				"Classes/Actor/ToolObjects.js"
+			],
+			[
+				"tool",
+				"Classes/Framework/ToolManager.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true
+}
