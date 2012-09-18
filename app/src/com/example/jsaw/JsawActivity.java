@@ -9,9 +9,13 @@ public class JsawActivity extends DroidGap {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
+    	
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_jsaw);
         super.loadUrl("file:///android_asset/www/index.html");
+        this.appView.getSettings().setUseWideViewPort(true);
+        this.appView.getSettings().setLoadWithOverviewMode(true);
+        this.appView.setInitialScale(0);
     }
 
     @Override
